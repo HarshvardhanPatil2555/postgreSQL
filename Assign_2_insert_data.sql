@@ -176,6 +176,7 @@ VALUES
 (4, 105, 5, 300.00, '2025-12-07 03:59:56');
 
 SELECT * FROM sales_order_items;
+SELECT * FROM sales_order_items;
 -----------------------------------------------------------------------------
 9th create_table shipments:-
 
